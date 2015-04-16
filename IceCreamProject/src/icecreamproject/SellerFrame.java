@@ -18,7 +18,7 @@ public class SellerFrame extends JFrame{
 	 */
 	private static final long serialVersionUID = 1L;
 	
-	private FlavorPanel panelFlavor;           //Class:FlavorPanel    Variable:panelFlavor
+	private FlavorPanel panelFlavor;           //Class:FlavorPanel    Variable:panelFlavor test
 	private DecoratorPanel panelDecorator;     //Class:DecoratorPanel Variable:panelDecorator
 	private JTextField txtTotal;               //Class:JTextField     Variable:txtTotal
 	private JButton btn_New_Icecream; 		   //Class:JButton        Variable:btn_New_Icecream
