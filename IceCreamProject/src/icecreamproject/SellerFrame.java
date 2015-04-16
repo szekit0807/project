@@ -28,7 +28,7 @@ public class SellerFrame extends JFrame{
 	
 	
 	
-	public SellerFrame() throws Exception {  //test pull in this time
+	public SellerFrame() throws Exception {
 		super("COMP5134 - Ice Cream POS System");
 		getContentPane().setLayout(new GridLayout(1, 3, 10, 0)); //Step3-1 JFrame's get "getContentPane" method . return "setLayout" method (int rows, int cols, int hgap, int vgap)
 			JPanel panel_left = new JPanel();
